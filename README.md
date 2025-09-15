@@ -41,20 +41,8 @@ This project covers most of the **important React concepts** for beginners:
   - Passing data between parent & child components  
 
 ## Reusable Components
-  - Input fields, Buttons, Forms  
+  - Input fields, Buttons, Forms
 
-##  Project Structure
-
-Actodo/
-│── public/ # Public assets
-│── src/
-│ ├── components/ # Reusable components (Navbar, Header, Card, Todolist etc.)
-│ ├── pages/ # Login, Signup, Landing pages
-│ ├── App.js # Main app entry
-│ ├── index.js # React DOM rendering
-│ └── styles/ # CSS or Tailwind styles
-│── package.json # Project dependencies
-│── README.md # Documentation
 
 ## Future Enhancements
 
