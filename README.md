@@ -1,8 +1,10 @@
-# Actodo - Login & Signup App
+# Login, Signup & ToDo List App
 
-A simple **Login & Signup authentication project** built using **React.js**.  
-This project demonstrates user authentication flow with modern UI and responsive design.  
-It helps beginners understand how to manage user input, form validation, navigation, and state management in React.
+**Actodo** is a simple productivity app built with **React.js** that combines  
+**User Authentication (Login & Signup)** with  **To-Do List Management**.  
+
+This project demonstrates how authentication and CRUD operations (Create, Read, Update, Delete) can be implemented together in a single React project.  
+It’s a beginner-friendly project but also shows practical integration of multiple React concepts.
 
 ##  Features
 -  **User Authentication** (Login & Signup)
@@ -11,6 +13,11 @@ It helps beginners understand how to manage user input, form validation, navigat
 -  **React Hooks** (`useState`, `useEffect`) usage
 -  Clean and simple design with reusable components
 -  Easy to extend with backend integration (Node/Express or Firebase)
+
+## To-Do List Functionality
+  - Add, Edit, and Delete tasks
+  - Mark tasks as completed
+  - Manage tasks per logged-in user (extendable)
 
 ## Tech Stack
 - **Frontend**: React.js, JSX, CSS (or Tailwind if used)
@@ -23,7 +30,7 @@ This project covers most of the **important React concepts** for beginners:
 
 ## React Router DOM
   - `BrowserRouter` – to enable routing  
-  - `Routes` & `Route` – to define paths (Login, Signup, Home)  
+  - `Routes` & `Route` – to define paths (Login, Signup, ToDo pages )  
   - `useLocation` – to detect current route  
 
 ## React Hooks
