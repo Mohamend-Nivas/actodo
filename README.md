@@ -12,7 +12,7 @@ It helps beginners understand how to manage user input, form validation, navigat
 -  Clean and simple design with reusable components
 -  Easy to extend with backend integration (Node/Express or Firebase)
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend**: React.js, JSX, CSS (or Tailwind if used)
 - **Routing**: React Router
 - **State Management**: React Hooks
